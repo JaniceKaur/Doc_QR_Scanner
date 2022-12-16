@@ -1,0 +1,1 @@
+# Doc_QR_Scanner
