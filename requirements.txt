@@ -1,0 +1,7 @@
+easyocr
+imutils
+numpy 
+opencv-python
+opencv-contrib-python
+imutils
+pillow
